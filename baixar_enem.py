@@ -121,7 +121,7 @@ if todos_dados:
     # 7. Salva no Excel
     nome_arquivo = "Ranking_ENEM_2024_Completo.xlsx"
     df_final.to_excel(nome_arquivo, index=False, engine='openpyxl')
-    print(f"\n🎉 Sucesso! Planilha gerada com {len(df_final)} escolas.")
+    print(f"\n Sucesso! Planilha gerada com {len(df_final)} escolas.")
     print(f"Arquivo salvo como: {nome_arquivo}")
 else:
     print("Nenhum dado foi extraído. Verifique sua conexão com a internet ou se o site mudou.")
