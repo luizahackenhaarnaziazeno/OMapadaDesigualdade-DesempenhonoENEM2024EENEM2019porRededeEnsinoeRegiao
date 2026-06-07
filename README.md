@@ -1,6 +1,6 @@
 <div align="center">
 
-##  O Mapa da Desigualdade: Desempenho no ENEM 2024 por Rede de Ensino e Região
+##  O Mapa da Desigualdade: Desempenho no ENEM 2024 E ENEM 2019 por Rede de Ensino e Região
 ## Coleta, Preparação e Análise de Dados - 2026/1
 
 # 📥 Dados baixados do site Evolucional:
@@ -18,18 +18,21 @@ O projeto foi escrito em Python. Para executá-lo, você precisará ter o Python
 
 Você pode instalar todas as dependências rodando o seguinte comando:
 
-``bash
+```bash
  python -m pip install webdriver-manager
-``  
-``bash
+``` 
+
+```bash
  python -m pip install selenium
-``  
-``bash
+```  
+
+```bash
 python -m pip install pandas
-``  
-``bash
+```  
+
+```bash
  python -m pip install openpyxl
-``  
+```  
 
 # 👥 Autoras:
 
