@@ -40,6 +40,11 @@ python -m pip install pandas
 
 # [Script Para Análise Explratória Dos Dados](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao/blob/d13b7e9961259e41ee7548e0c2c09925124675d1/Script%20de%20an%C3%A1lise%20explorat%C3%B3ria/AnaliseExploratoria.ipynb)
 
+# Análise Explratória Dos Dados
+<img width="640" height="480" alt="boxplot_dependencia" src="https://github.com/user-attachments/assets/322aa9dc-c97b-478a-acac-53d41c88433a" />
+<img width="1200" height="800" alt="media_estado" src="https://github.com/user-attachments/assets/eb43e800-4db9-4ef2-bc02-ec884ea22dbc" />
+
+
 
 # 👥 Autoras:
 
