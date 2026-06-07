@@ -7,6 +7,8 @@
 - [ENEM2024](https://microdados.evolucional.com.br/microdados/ranking-enem-2024?redacao=sim)
 - [ENEM2019](https://microdados.evolucional.com.br/microdados/edicoes-anteriores/2019?redacao=sim)
 
+# [Excel Dos Dados Baixos Do Evolucional](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao/blob/d13b7e9961259e41ee7548e0c2c09925124675d1/Dados%20Baixados(Excel))
+
 
 ## ⚙️ Pré-requisitos e Dependências
 O projeto foi escrito em Python. Para executá-lo, você precisará ter o Python 3.14.3 instalado e as seguintes bibliotecas:
@@ -33,6 +35,11 @@ python -m pip install pandas
 ```bash
  python -m pip install openpyxl
 ```  
+
+# [Script Para Baixar Os Dados](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao/blob/d13b7e9961259e41ee7548e0c2c09925124675d1/Script%20para%20baixar%20dados/baixar_enem_2019_2024.py)
+
+# [Script Para Análise Explratória Dos Dados](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao/blob/d13b7e9961259e41ee7548e0c2c09925124675d1/Script%20de%20an%C3%A1lise%20explorat%C3%B3ria/AnaliseExploratoria.ipynb)
+
 
 # 👥 Autoras:
 
