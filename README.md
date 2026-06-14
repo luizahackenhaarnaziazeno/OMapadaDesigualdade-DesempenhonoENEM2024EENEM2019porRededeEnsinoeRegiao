@@ -47,6 +47,12 @@ python -m pip install pandas
 
 
 # 📊 [Dados Analisados](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao/tree/main/Gr%C3%A1ficos)
+- [Análise da Média E Posição Geral por Dependência Administrativa ENEM 2019](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao/blob/main/Gr%C3%A1ficos/2019/M%C3%A9diaEPosi%C3%A7%C3%A3oGeralporDepend%C3%AAnciaAdministrativaENEM2019.png)
+- [Análise das Média das Competências por Dependência Administrativa 2019](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao/blob/main/Gr%C3%A1ficos/2019/M%C3%A9diadasCompet%C3%AAnciasporDepend%C3%AAnciaAdministrativa2019.png)
+- [Análise da Distribuição das Top 100 Escolas por Dependência Administrativa-ENEM 2019](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao/blob/main/Gr%C3%A1ficos/2019/Distribui%C3%A7%C3%A3odasTop100EscolasporDepend%C3%AAnciaAdministrativa-ENEM%202019.png)
+- [Análise da Média por Estado part.1](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao/blob/main/Gr%C3%A1ficos/2019/M%C3%A9diaporEstadopart.1.png)
+- [Análise da Média por Estado part.2](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao/blob/main/Gr%C3%A1ficos/2019/M%C3%A9diaporEstadopart.2.png)
+
 
 # 👥 Autoras:
 
