@@ -9,6 +9,7 @@
 
 # [Excel Dos Dados Baixos Do Evolucional](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao/blob/d13b7e9961259e41ee7548e0c2c09925124675d1/Dados%20Baixados(Excel))
 
+# 💻 [Dashboard](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao/blob/main/Dashbord.pbix)
 
 ## ⚙️ Pré-requisitos e Dependências
 O projeto foi escrito em Python. Para executá-lo, você precisará ter o Python 3.14.3 instalado e as seguintes bibliotecas:
@@ -44,9 +45,8 @@ python -m pip install pandas
 <img width="640" height="480" alt="boxplot_dependencia" src="https://github.com/user-attachments/assets/322aa9dc-c97b-478a-acac-53d41c88433a" />
 <img width="1200" height="800" alt="media_estado" src="https://github.com/user-attachments/assets/eb43e800-4db9-4ef2-bc02-ec884ea22dbc" />
 
-# 💻 [Dashboard]()
 
-# 📊 [Dados Analisados](https://github.com/luizahackenhaarnaziazeno/PraticaEmPesquisa/tree/main/Gr%C3%A1ficos)
+# 📊 [Dados Analisados]()
 
 # 👥 Autoras:
 
