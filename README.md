@@ -46,7 +46,7 @@ python -m pip install pandas
 <img width="1200" height="800" alt="media_estado" src="https://github.com/user-attachments/assets/eb43e800-4db9-4ef2-bc02-ec884ea22dbc" />
 
 
-# 📊 [Dados Analisados]()
+# 📊 [Dados Analisados](https://github.com/luizahackenhaarnaziazeno/OMapadaDesigualdade-DesempenhonoENEM2024EENEM2019porRededeEnsinoeRegiao/tree/main/Gr%C3%A1ficos)
 
 # 👥 Autoras:
 
